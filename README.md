@@ -43,8 +43,6 @@ The dataset contains employee-related information, including age, department, jo
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
-- Joblib
 - Jupyter Notebook
 
 ## ⚙️ Project Workflow
